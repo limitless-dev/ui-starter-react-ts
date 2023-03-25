@@ -73,8 +73,5 @@ Contributions to this starter template are welcome. Please follow the existing c
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Credits
-This starter template was created by owner o.
-
 ## Contact
 If you have any questions or comments about this starter template, please create an issue.
